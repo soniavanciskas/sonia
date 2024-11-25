@@ -1,0 +1,5 @@
+biodata 
+
+nama : sonia vanciska
+kelas : 5ia16 
+npm : 51420204
